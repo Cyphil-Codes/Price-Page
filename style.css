@@ -82,3 +82,10 @@ table td:last-child{
 	font-style: italic;
 	font-weight: bold;
 }
+@media only screen and (min-width: 600px) {
+
+}
+	
+#wrapper{
+	width: 100%;
+}
